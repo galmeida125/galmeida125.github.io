@@ -1,7 +1,9 @@
 .row {
   border: 1px solid blue;
+  margin: 10px 0px 10px;
 }
 
 .ads {
-  border: 1px dotted blue;
+  border: 1px dotted red;
+  margin: 25px 0px 25px;
 }
